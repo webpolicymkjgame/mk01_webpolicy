@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Triple888Dev Studio" className="logo-img" />
-                <span className="studio-name">Triple888Dev Studio</span>
+                <img src={logoImg} alt="Solvertech Africa Studio" className="logo-img" />
+                <span className="studio-name">Solvertech Africa Studio</span>
               </div>
             </div>
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Triple888Dev Studio – Welcome Aboard</h2>
-            <p className="about-text">Triple888Dev Studio is an innovative mobile app studio dedicated to developing reliable, creative, and user-friendly applications. We aim to merge imagination with functionality, delivering solutions across casual gaming, productivity, lifestyle, and education. Every app we produce is designed with the user experience at its core — featuring intuitive navigation, refined details, and practical value — to make everyday life easier, smarter, and more enjoyable for people worldwide.</p>
+            <h2 className="highlight-title">Solvertech Africa Studio – Welcome Aboard</h2>
+            <p className="about-text">Solvertech Africa Studio is an innovative mobile app studio dedicated to developing reliable, creative, and user-friendly applications. We aim to merge imagination with functionality, delivering solutions across casual gaming, productivity, lifestyle, and education. Every app we produce is designed with the user experience at its core — featuring intuitive navigation, refined details, and practical value — to make everyday life easier, smarter, and more enjoyable for people worldwide.</p>
           </div>
           <div className="about-img-container">
             <img src={imgMkj} alt="About MKJ Studio" className="about-img" />
@@ -86,7 +86,7 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: franssetia888@gmail.com"> franssetia888@gmail.com</a><br />
+            <a href="mailto: henricsanyu@gmail.com"> henricsanyu@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
               🏠  Thôn Bình Tây Hoằng Thịnh, Hoằng Hóa, Thanh Hóa Thanh Hoa - 440000
             </span>
@@ -108,7 +108,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Triple888Dev Studio. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Solvertech Africa Studio. All rights reserved.</p>
           </div>
         </footer>
       </div>
